@@ -1,3 +1,3 @@
-# bilibili-json-to-srt
+## About
 
-Convert bilibili Android App anime sub file from JSON to SRT
+A small tool to convert Bilibili Subtitles (JSON) to srt.
